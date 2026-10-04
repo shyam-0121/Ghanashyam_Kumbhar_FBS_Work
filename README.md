@@ -46,7 +46,6 @@ A comprehensive program covering the full data science stack — from core progr
 - 💻 GitHub: [shyam-0121](https://github.com/shyam-0121)
 - 💼 LinkedIn: [shyamkumbhar01](https://linkedin.com/in/shyamkumbhar01)
 - 📧 Email: shyamkumbhar9816@gmail.com
-- 📱 Phone: +91 93097 67222
 
 ---
 *This repo is actively updated as I progress through the course.*
