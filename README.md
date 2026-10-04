@@ -30,7 +30,7 @@ A comprehensive program covering the full data science stack — from core progr
 | Tools | Git & GitHub, Power BI, DevOps (Docker, Jenkins) |
 | Extras | R Programming, Aptitude, Soft Skills |
 
-## 📌 What's in this Repo
+## 📌 Skills in Progress
 
 - ✅ Module-wise assignments and practice exercises
 - ✅ Case studies from each topic
