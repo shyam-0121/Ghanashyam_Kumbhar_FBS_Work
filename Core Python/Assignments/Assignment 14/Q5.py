@@ -28,7 +28,3 @@ res = long_comm_prefix(words)
 print(res)
     
 
-
-
-
-
